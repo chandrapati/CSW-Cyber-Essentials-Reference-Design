@@ -51,7 +51,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -411,9 +411,9 @@ Forward **flow / enforcement / alert** metadata to Splunk / Sentinel / Chronicle
 
 ## Related frameworks
 
-- [NIS2 (EU 2022/2555)](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIS2/CSW-NIS2-Technical-Runbook.md) — for UK organisations with EU entities; different legal base, overlapping technical measures.
-- [NIST SP 800-53](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — deeper control catalogue if Cyber Essentials is a **stepping stone** to FedRAMP-style rigour.
-- [CIS Controls v8](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/CIS-Controls-v8/CSW-CIS-Technical-Runbook.md) — operational mapping sibling for **inventory, vuln, segmentation**.
+- [NIS2 (EU 2022/2555)](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIS2/CSW-NIS2-Technical-Runbook.md) — for UK organisations with EU entities; different legal base, overlapping technical measures.
+- [NIST SP 800-53](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — deeper control catalogue if Cyber Essentials is a **stepping stone** to FedRAMP-style rigour.
+- [CIS Controls v8](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/CIS-Controls-v8/CSW-CIS-Technical-Runbook.md) — operational mapping sibling for **inventory, vuln, segmentation**.
 
 ---
 
@@ -462,4 +462,4 @@ rules:
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*

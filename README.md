@@ -127,4 +127,4 @@ Authoritative source(s) for **UK Cyber Essentials Plus**. Always validate contro
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a UK Cyber Essentials Plus attestation. Validate all control references against the current official UK Cyber Essentials Plus text ([official source](https://www.ncsc.gov.uk/cyberessentials/overview)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
